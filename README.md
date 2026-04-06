@@ -10,3 +10,13 @@ AI-powered chatbot for IIT university website.
 ## Team
 - Yessin Jribi
 - Mahdi Maaloul
+
+## To Start
+ - terminal 1
+ cd backend
+ venv\Scripts\activate
+ uvicorn main:app --reload
+
+ - terminal 2
+ cd frontend
+ npm run dev
